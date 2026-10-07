@@ -1,52 +1,82 @@
-# Music Portfolio
+# 🎵 Richard Ayodeji Akapo — Music Portfolio
 
-A collection of selected music production, arrangement, and backing-track projects by **Richard Ayodeji Akapo**.
+Welcome to my music portfolio.
 
-## About
+I am a **music producer and arranger** with experience in music production, backing-track creation, MIDI programming, and developing musical arrangements for live-performance settings.
 
-I am a music producer and arranger with experience creating music for live performance, including backing tracks, MIDI arrangements, instrumental parts, and supporting musical elements for live-band settings.
+My work focuses on turning musical ideas into structured, practical arrangements using digital audio workstations and virtual instruments.
 
-My work focuses on translating musical ideas into practical arrangements that musicians can use in performance.
+## 🎹 Areas of Work
 
-## What You'll Find Here
+- Music production
+- Musical arrangement
+- Backing-track production
+- MIDI programming
+- Instrument arrangement
+- Audio editing and production
+- Music composition
+- Preparation of arrangements for live performance
 
-🎹 **Backing Tracks**  
-Original backing-track productions arranged for live performance.
-
-🎼 **Music Arrangements**  
-Selected arrangements, compositions, and MIDI-based productions.
-
-🎧 **Audio Production**  
-Selected audio production work and experiments as I continue developing my mixing and mastering skills.
-
-🎬 **Creative Projects**  
-Selected projects combining music, audio, and video.
-
-## Software & Tools
-
-- Cubase 15 Pro
-- FL Studio
-- Kontakt
-- Native Instruments instruments and effects
-- Other virtual instruments and audio plugins
-
-## Projects
+## 📂 Featured Projects
 
 ### 🎵 Unreleased Original Backing Track
 
 A full backing-track production and musical arrangement created for an original song by an independent artist.
 
-**My role:** Music Producer & Arranger  
-**DAW:** FL Studio  
-**Featured instrument:** FLEX  
-**Additional instruments:** Other FL Studio stock plugins
+**Role:** Music Producer & Arranger  
+**DAW:** Cubase  
+**Featured instrument:** DUNE 3  
 **Project type:** Original song — backing-track production  
 **Status:** Unreleased / Confidential
 
-The project involved creating the full song arrangement with multiple instruments for backing-track use.
-
-[View Project](./projects/unreleased-original-backing-track)
+[View Project →](./projects/unreleased-original-backing-track)
 
 ---
 
-**Location:** Ilorin, Nigeria
+### 🎵 Unreleased Original Backing Track 02
+
+A full backing-track production and musical arrangement created for an original song by an independent artist.
+
+**Role:** Music Producer & Arranger  
+**DAW:** FL Studio  
+**Featured instrument:** FLEX  
+**Additional instruments:** Other FL Studio stock plugins  
+**Project type:** Original song — backing-track production  
+**Status:** Unreleased / Confidential
+
+[View Project →](./projects/unreleased-original-backing-track-02)
+
+## 🛠️ Tools & Software
+
+### DAWs
+- Cubase 15 Pro
+- FL Studio
+
+### Instruments & Production Tools
+- DUNE 3
+- FLEX
+- Kontakt
+- Native Instruments instruments and effects
+- Other virtual instruments and audio plugins
+
+### Video
+- CapCut
+
+## 🎯 Current Development
+
+I am continuing to develop my skills in:
+
+- Mixing and mastering
+- Music production
+- Musical arrangement
+- Audio production
+- Live-performance preparation
+- Creative music projects
+
+## 📍 Location
+
+**Ilorin, Nigeria**
+
+---
+
+This portfolio contains selected examples of my music production, arrangement, and audio work. More projects will be added as my portfolio develops.

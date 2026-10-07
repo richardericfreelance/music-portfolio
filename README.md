@@ -32,7 +32,20 @@ Selected projects combining music, audio, and video.
 
 ## Projects
 
-Individual projects will be added to this portfolio with information about the arrangement, production process, instruments, software, and intended use.
+### 🎵 Unreleased Original Backing Track
+
+A full backing-track production and musical arrangement created for an original song by an independent artist.
+
+**My role:** Music Producer & Arranger  
+**DAW:** FL Studio  
+**Featured instrument:** FLEX  
+**Additional instruments:** Other FL Studio stock plugins
+**Project type:** Original song — backing-track production  
+**Status:** Unreleased / Confidential
+
+The project involved creating the full song arrangement with multiple instruments for backing-track use.
+
+[View Project](./projects/unreleased-original-backing-track)
 
 ---
 
